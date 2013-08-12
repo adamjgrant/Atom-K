@@ -89,3 +89,10 @@ Here are some ideas for ways email clients could take advantage of the syntax:
 - <code>handshake</code> emails could prompt desktop clients to open a UI element such as a Growl message to take the user right to the confirmation page. No need to check the email itself.
 - Different types can be sorted into respective feeds. This means you can read through all your periodicals on the subway, your messages at work, and clear all notifications at once.
 - Unsubscription to newsletters can be delegated to an actual UI element in the client program. On the same token, being less annoying, users will be less likely to want to unsubscribe.
+
+How to start this revolution?
+-----------------------------
+
+This is an open source project made for the advancement of humankind.
+It's a simple two way street: Email senders can start writing this meta data automatically. Email clients can impress their users with the ability to read them.
+Just use the syntax crowdsourced and edited in the API document of this repo. It's so easy, why not do it?
