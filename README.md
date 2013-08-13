@@ -87,7 +87,7 @@ Potential User Experience Improvements
 --------------------------------------
 
 Here are some ideas for ways email clients could take advantage of the syntax:
-<h3><code>periodical</code>s can be set to archive all but the last unread.</h3>
+<h3><code>periodical</code>s can be set to automatically archive all but the last unread.</h3>
 <img src="https://s3.amazonaws.com/misc-46578923rb/latest-unread.PNG" />
 <h3>Emailing a photo to oneself could automatically be sent to a companion online storage folder, instead of mixed in with other messages and junk mail.</h3>
 <img src="https://s3.amazonaws.com/misc-46578923rb/vacationphotos.png" />
@@ -103,4 +103,4 @@ Where to go from here?
 
 This is an open source project made for the advancement of humankind.
 It's a simple two way street: Email senders can start writing this meta data automatically. Email clients can impress their users with the ability to read these kind of emails.
-Just use the syntax in the API document of this repo. It's versioned, crowdsourced, and sets a universal standard.
+Just use the syntax in the API document of this repo.
