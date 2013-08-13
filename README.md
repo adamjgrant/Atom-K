@@ -87,13 +87,9 @@ Potential User Experience Improvements
 --------------------------------------
 
 Here are some ideas for ways email clients could take advantage of the syntax:
-<br>
+<h3><code>periodical</code>s can be set to archive all but the last unread.</h3>
 <img src="https://s3.amazonaws.com/misc-46578923rb/latest-unread.PNG" />
-<code>periodical</code>s can be set to archive all but the last unread.
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-
-- Emailing a photo to oneself could automatically be sent to a companion online storage folder, instead of mixed in with other messages and junk mail.
-<br>
+<h3>Emailing a photo to oneself could automatically be sent to a companion online storage folder, instead of mixed in with other messages and junk mail.</h3>
 <img src="https://s3.amazonaws.com/misc-46578923rb/vacationphotos.png" />
 - <code>handshake</code> emails could prompt desktop clients to open a UI element such as a Growl message to take the user right to the confirmation page. No need to check the email itself.
 - Different types can be sorted into respective feeds. This means you can read through all your periodicals on the subway, your messages at work, and clear all notifications at once.
