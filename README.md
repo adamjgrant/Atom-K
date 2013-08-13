@@ -8,6 +8,8 @@ A stupidly simple way to make email better, v 0.9.0
 Because not all emails are messages.
 ------------------------------------
 
+<img src="https://s3.amazonaws.com/misc-46578923rb/cluttered-inbox.png"/>
+
 <table>
   <thead>
     <tr>
@@ -40,13 +42,15 @@ Because not all emails are messages.
     <tr>
       <td>"Note to self"</td>
       <td>Personal note, file, or snippet sent to self to be saved or transfered between devices</td>
-      <td><code>meta-message</code></td>
+      <td><code>storage</code></td>
     </tr>
   </tbody>
 </table>
 
 How this is solved
 ------------------
+
+<img src="https://s3.amazonaws.com/misc-46578923rb/handshake.png" />
 
     <meta 
       name="email-handshake" 
@@ -83,9 +87,14 @@ Potential User Experience Improvements
 --------------------------------------
 
 Here are some ideas for ways email clients could take advantage of the syntax:
+<br>
+<img src="https://s3.amazonaws.com/misc-46578923rb/latest-unread.PNG" />
+<code>periodical</code>s can be set to archive all but the last unread.
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-- <code>periodical</code>s can be set to archive all but the last unread.
 - Emailing a photo to oneself could automatically be sent to a companion online storage folder, instead of mixed in with other messages and junk mail.
+<br>
+<img src="https://s3.amazonaws.com/misc-46578923rb/vacationphotos.png" />
 - <code>handshake</code> emails could prompt desktop clients to open a UI element such as a Growl message to take the user right to the confirmation page. No need to check the email itself.
 - Different types can be sorted into respective feeds. This means you can read through all your periodicals on the subway, your messages at work, and clear all notifications at once.
 - Unsubscription to newsletters can be delegated to an actual UI element in the client program. On the same token, being less annoying, users will be less likely to want to unsubscribe.
