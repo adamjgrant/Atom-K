@@ -1,7 +1,7 @@
 Email-Meta
 ==========
 
-A stupidly simple way to make email better, v 0.9.0
+A stupidly simple way to make email better, v 1.0.0
 
 <em>Email meta is an open, valid HTML syntax to provide context, structure, and better UX to any conceivable email reader.</em>
 
@@ -60,7 +60,7 @@ How this is solved
       "
     >
     <!-- Optional -->
-    <meta name="email-meta-version" content="0.9.0">
+    <meta name="email-meta-version" content="1.0.0">
     
 With a simple <meta> tag denoting the type of email, email programs can sort by this universal protocol. 
 Read-only messages can be put in little dialogue boxes. Periodicals can be grouped into newsstand organizers. 
@@ -107,6 +107,5 @@ Just use the syntax in the API document of this repo.
 Contributing
 ------------
 
-This branch is a starting point. Please send pull request to the 1.0 branch
-where a stable version of the API is in the works. Senders and sendees can
-still use 0.9.0 but should version using ``email-meta-version``. (See API.md)
+Please open an issue first, or send in a pull request for minor (e.g. typo)
+fixes.
