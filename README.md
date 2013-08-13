@@ -55,8 +55,8 @@ How this is solved
     <meta 
       name="email-handshake" 
       content="
-        description: 'Please confirm your account with Lab95'; 
-        url: 'http://lab95.com/confirm/SX29Sfd948dfjWss301LK';
+        description: 'Please confirm your account with Lab95', 
+        url: 'http://lab95.com/confirm/SX29Sfd948dfjWss301LK'
       "
     >
     <!-- Optional -->
