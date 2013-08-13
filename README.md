@@ -103,3 +103,10 @@ Where to go from here?
 This is an open source project made for the advancement of humankind.
 It's a simple two way street: Email senders can start writing this meta data automatically. Email clients can impress their users with the ability to read these kind of emails.
 Just use the syntax in the API document of this repo.
+
+Contributing
+------------
+
+This branch is a starting point. Please send pull request to the 1.0 branch
+where a stable version of the API is in the works. Senders and sendees can
+still use 0.9.0 but should version using ``email-meta-version``. (See API.md)
