@@ -26,6 +26,7 @@ For the commercial standard, user could use extensionless domains
 * to: john/example
 * to: jane.doe/example
 * to: alex-miller/example
+* The owner of example.com would need to successfully register "example" as a domain in the commercial application.
 
 3rd party non-email messaging systems tap into the "@" prefix
 * to: @username/twitter.com
