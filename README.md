@@ -18,14 +18,19 @@ Syntax
 ------
 
 Slashes (/) are used for separating a user from the domain, just as email separates with an @.
-* john/example.com
-* jane.doe/example.com
-* alex-miller/example.com
+* to: john/example.com
+* to: jane.doe/example.com
+* to: alex-miller/example.com
 
 For the commercial standard, user could use extensionless domains
-* john/example
-* jane.doe/example
-* alex-miller/example
+* to: john/example
+* to: jane.doe/example
+* to: alex-miller/example
+
+3rd party non-email messaging systems tap into the "@" prefix
+* to: @username/twitter.com
+* Default domains can be set via client app to omit the domain
+  * to: @username
 
 Message Types
 -------------
