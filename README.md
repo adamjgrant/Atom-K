@@ -1,7 +1,7 @@
 Email-Meta
 ==========
 
-A stupidly simple way to make email better, v 0.9.0 - <a href="https://news.ycombinator.com/saved?id=akochanowicz">On HackerNews</a>
+A stupidly simple way to make email better, v 0.10.0
 
 <em>Email meta is an open, valid HTML syntax to provide context, structure, and better UX to any conceivable email reader.</em>
 
