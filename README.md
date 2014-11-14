@@ -13,6 +13,9 @@ Core concepts
   * Time has proven that email and calendar need to consistently work together, so why should their particles be different things?
 * Supports the sending of HTML5 content.
 * Possibility for a commercial standard in addition to open standard, just as Twitter is the commercial standard for tweets.
+* Streams as subscribable endpoints
+  * Replaces the awkwardness of periodical emails.
+  * Vendors can write periodicals to streams, which users can attach (subscribe) to or detach (unsubscribe) from.
 
 Syntax
 ------
