@@ -1,12 +1,34 @@
-Email-Meta
-==========
+Atom K
+======
 
-A stupidly simple way to make email better, v 0.10.0
+A documentation prototype for next generation messaging
 
-<em>Email meta is an open, valid HTML syntax to provide context, structure, and better UX to any conceivable email reader.</em>
+Core concepts
+-------------
 
-Because not all emails are messages.
-------------------------------------
+* Interoperability
+  * A general messaging interface for messaging systems, not just email. Twitter, facebook, et al. should be optional means for messaging.
+  * Backwards compatible with email.
+* Messages and calendar events are one in the same.
+  * Time has proven that email and calendar need to consistently work together, so why should their particles be different things?
+* Supports the sending of HTML5 content.
+* Possibility for a commercial standard in addition to open standard, just as Twitter is the commercial standard for tweets.
+
+Syntax
+------
+
+Slashes (/) are used for separating a user from the domain, just as email separates with an @.
+* john/example.com
+* jane.doe/example.com
+* alex-miller/example.com
+
+For the commercial standard, user could use extensionless domains
+* john/example
+* jane.doe/example
+* alex-miller/example
+
+Message Types
+-------------
 
 <img src="https://s3.amazonaws.com/misc-46578923rb/cluttered-inbox.png"/>
 
